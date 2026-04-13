@@ -56,6 +56,7 @@ When contributing, adhere to the project’s guidelines:
 - Be consistent: Regular contributions, even small ones, can have a big impact over time.
 - Learn from feedback: Code reviews are a learning opportunity; embrace feedback and improve your skills.
 - Give back: Once you’re comfortable, help others by reviewing PRs, answering questions, or mentoring newcomers.
+- Before you start working, check the repository header on GitHub to ensure it is not **archived**. Archived repositories are read-only and will not allow you to submit Pull Requests.
 
 ## Common Challenges and How to Overcome Them
 
